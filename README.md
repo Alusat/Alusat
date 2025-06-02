@@ -1,12 +1,6 @@
 # Hi, I'm Albert Usero Martinez
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Informatics+Engineering;Always+Learning+%26+Growing;Ready+for+New+Challenges!)
-
-</div>
-
-## 🎓 About Me
+## About Me
 
 🎯 **Third-year Informatics Engineering student** specializing in **Computer Science** at the **Polytechnic University of Catalonia**
 
