@@ -85,16 +85,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 <div align="center">
 
 </div>
