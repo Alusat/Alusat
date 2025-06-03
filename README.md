@@ -6,7 +6,7 @@
 
 🚀 I am always **eager to learn** and contribute to **innovative projects**
 
-💼 Currently seeking a **summer internship** to gain professional experience and apply my knowledge in a real work environment
+💼 Currently seeking an **internship** to gain professional experience and apply my knowledge in a real work environment
 
 🌟 Open to opportunities that allow me to consolidate my skills and grow as a developer
 
