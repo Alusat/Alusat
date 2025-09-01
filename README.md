@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎯 **Third-year Informatics Engineering student** specializing in **Computer Science** at the **Polytechnic University of Catalonia**
+🎯 **Fourth-year Informatics Engineering student** specializing in **Computer Science** at the **Polytechnic University of Catalonia**
 
 🚀 I am always **eager to learn** and contribute to **innovative projects**
 
